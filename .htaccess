@@ -1,0 +1,4 @@
+RewriteRule ^([^.]+)$ $1.html [NC,L]
+
+Options +Indexes
+IndexOptions FancyIndexing FoldersFirst NameWidth=* DescriptionWidth=*
