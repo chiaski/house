@@ -1,4 +1,5 @@
 RewriteRule ^([^.]+)$ $1.html [NC,L]
 
 Options +Indexes
-IndexOptions FancyIndexing FoldersFirst NameWidth=* DescriptionWidth=*
+IndexOptions FoldersFirst NameWidth=* DescriptionWidth=*
+ReadmeName /description.html
