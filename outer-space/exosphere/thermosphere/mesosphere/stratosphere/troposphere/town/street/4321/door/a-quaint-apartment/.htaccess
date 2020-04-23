@@ -1,5 +1,0 @@
-RewriteRule ^([^.]+)$ $1.html [NC,L]
-
-Options +Indexes
-IndexOptions FoldersFirst NameWidth=* DescriptionWidth=*
-ReadmeName observe.html
