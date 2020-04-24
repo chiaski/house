@@ -11,4 +11,5 @@ Look at all the references and work behind house, compiled on are.na:
 Visit house:
 [chiaski.com/house](chiaski.com/house)
 
-* Prompted to 
+Read the prompt:
+[PROMPT.MD](PROMPT.MD)
